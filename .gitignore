@@ -1,0 +1,14 @@
+node_modules
+dist
+dist-ssr
+*.local
+*.tsbuildinfo
+
+# 本地验证产生的临时物
+.verify
+.chrome-profile
+.install*.log
+.install*.err
+.preview*.log
+.preview*.err
+*.zip

@@ -1,0 +1,32 @@
+:root {
+  /* 深夜不是死黑：底色自己就带着两个方向的光，暖在一角，冷在另一角 */
+  --bg-deep: #1c1611;
+  --bg-warm: #2b2016;
+  --bg-cool: #161b26;
+
+  --warm: #ffd89b;
+  --warm-strong: #ffe8c4;
+  --warm-dim: rgba(255, 216, 155, 0.42);
+  --cool: #93aacb;
+  --cool-dim: rgba(147, 170, 203, 0.32);
+
+  /* 暗处的字 */
+  --ink: #f5efe4;
+  --ink-dim: #c2b6a5;
+  --ink-faint: #8b7f70;
+
+  /* 纸：光明的一面，字是深的 */
+  --paper-bright: #f6ecd6;
+  --paper: #e6d9be;
+  --paper-shade: #c9b997;
+  --paper-ink: #2c261e;
+  --paper-ink-dim: #6f6250;
+  --paper-line: rgba(44, 38, 30, 0.18);
+
+  --line: rgba(245, 239, 228, 0.16);
+
+  --font-hand: 'LXGW WenKai', 'Kaiti SC', 'STKaiti', 'KaiTi', 'Songti SC', serif;
+  --font-body: 'Songti SC', 'STSong', 'SimSun', 'Noto Serif SC', serif;
+
+  --ease-out: cubic-bezier(0.22, 0.61, 0.36, 1);
+}
